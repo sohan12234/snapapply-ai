@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "A serverless ATS resume analyzer powered by Puter AI for resume scoring, feedback, and job matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
